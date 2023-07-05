@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "supertest": "^6.3.3"
+  },
+  "dependencies": {
+    "mongodb-memory-server": "^8.13.0",
+    "mongoose": "^7.3.1"
   }
 }
